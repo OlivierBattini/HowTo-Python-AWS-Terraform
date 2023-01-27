@@ -5,13 +5,13 @@ This project is the support of a speed run to learn Python, deploy a basic API P
 
 ## Steps
 
-    - [x] Learn Python Speed Run
-    - [ ] Create a basic Python JSON API using Flask
-    - [ ] Learn Terraform Speed Run
-    - [ ] Create Terraform configuration for deploy to AWS
+- [x] Learn Python Speed Run
+- [ ] Create a basic Python JSON API using Flask
+- [ ] Learn Terraform Speed Run
+- [ ] Create Terraform configuration for deploy to AWS
 
 ## Next challenges
 
-    - [ ] Use virtual env
-    - [x] Learn Docker Speed Run
-    - [ ] Deploying Python API to Docker container
+- [ ] Use virtual env
+- [x] Learn Docker Speed Run
+- [ ] Deploying Python API to Docker container
