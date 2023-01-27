@@ -7,8 +7,8 @@ This project is the support of a speed run to learn Python, deploy a basic API P
 
 - [x] Learn Python Speed Run
 - [x] Create a basic Python JSON API using Flask
-- [ ] Learn Terraform Speed Run
-- [ ] Create Terraform configuration for deploy to AWS
+- [x] Learn Terraform Speed Run
+- [x] Create Terraform configuration to deploy infrastructure configuration to AWS
 
 ## Initializing Terraform
 
@@ -16,7 +16,7 @@ This project is the support of a speed run to learn Python, deploy a basic API P
 2. To apply Terraform configuration, run the command : `terraform apply`
 3. To destroy the infrastrcture created, run the command : `terraform destroy`
 
-Current Terraform configuration will create a basic EC2 instance based on Amazon Image ami-0ca5ef73451e16dc1 (Free-Tier eligible Linux image) in the eu-west-3 region (Paris).
+Current Terraform configuration will create a basic EC2 instance based on Amazon Image ami-0afd55c0c8a52973a (Free-Tier eligible Ubuntu image) in the eu-west-3 region (Paris).
 
 ## Next challenges
 
