@@ -1,0 +1,10 @@
+[Unit]
+Description=App Service
+
+[Service]
+ExecStart=/usr/bin/python3 /home/ubuntu/app/src/main.py
+User=ubuntu
+Group=admin
+
+[Install]
+WantedBy=multi-user.target
