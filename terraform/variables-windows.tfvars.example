@@ -1,0 +1,2 @@
+pem_key_path = "C:\\Users\\XXX\\.ssh\\HowToPythonAwsTerraform.pem"
+local_app_path = "D:\\XXX\\app"

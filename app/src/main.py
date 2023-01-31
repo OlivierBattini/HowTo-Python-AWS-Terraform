@@ -1,6 +1,11 @@
 import psutil
 from flask import Flask, jsonify
 
+
+HOST = "0.0.0.0"
+PORT = 5000
+
+
 api = Flask(__name__)
 
 
@@ -22,7 +27,7 @@ def stats():
 
 if __name__ == '__main__':
     print("Starting app...")
-    api.run()
+    api.run(HOST, PORT)
     print("Stopping app...")
 
 print("Exiting...")
